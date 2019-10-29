@@ -1,1 +1,1 @@
-# leet-code-wizard
+# follow dalao's footprint
